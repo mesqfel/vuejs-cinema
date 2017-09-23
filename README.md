@@ -1,6 +1,7 @@
 # vuejs-cinema
 
-A Cinema website made with Vue.js.
+A Cinema website made with Vue.js.<br>
+You can check it live here: https://mesqfel-vuejs-cinema.herokuapp.com
 
 ### Getting Started
 
